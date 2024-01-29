@@ -1,2 +1,5 @@
-# Athletic-Activity-Substance-Use-Latent-Variable-Analysis
-Using Latent Variable Analysis (LVA) to determine if there is an association between athletic activity and substance use while using level of depression as a mediator variable
+The purpose of the research is to have a better understanding of the association between someone’s level of athletic activity and substance use while using their level of depression as a mediator variable.
+
+A Latent Variable Analysis Individual Final Project, conducted in December 2020.
+
+Completed fully within R
